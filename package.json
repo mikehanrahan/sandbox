@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/mikehanrahan/sandbox.git"
   },
-  "author": "",
+  "author": "Mike H",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mikehanrahan/sandbox/issues"
   },
-  "homepage": "https://github.com/mikehanrahan/sandbox#readme"
+  "homepage": "https://github.com/mikehanrahan/sandbox#readme",
+  "keywords": [
+    "sand",
+    "sandbox"
+  ]
 }
